@@ -1,9 +1,12 @@
 # Habit-Tracker
 ## Description
   A habit tracker web app that allows users to perform CRUD operations (Create, Read, Update, Delete) on their habits, such as adding new habits, viewing their existing habits, updating or editing habits, and deleting habits. The project is built using a tech stack consisting of ReactJS. For styling , CSS is used.
+  Click [here](https://habit-tracker-cn.netlify.app/) to try.
 
 ## Tech stack
   ReactJS, CSS
+
+
 
 ## How to setup the project on local system
   1. Clone this project
